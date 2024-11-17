@@ -60,8 +60,8 @@ CETV早期教育,http://183.215.115.136:6610/180000001001/3202306022235436842750
 新疆卫视,http://39.134.240.3/PLTV/2/224/3221226078/index.m3u8
 云南卫视,http://39.134.240.3/PLTV/2/224/3221225986/index.m3u8
 重庆卫视,http://39.134.240.3/PLTV/2/224/3221225966/index.m3u8
-兵团卫视,http://mobilelivetimeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0#https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://183.215.115.136:6610/180000001001/00000001000000000022000000381024/main.m3u8?IASHttpSessionId=OTT
-农林卫视,http://183.215.115.136:6610/000000001000/2000000003000000046/index.m3u8?livemode=1&stbId=10&channelid=hnbblive&Contentid=2000000003000000046
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://183.215.115.136:6610/180000001001/00000001000000000022000000381024/main.m3u8?IASHttpSessionId=OTT
+农林卫视,http://183.215.115.136:6610/000000001000/2000000003000000046/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000046
 大湾区卫视,http://104.233.187.135:5666/handler/third_gdtv/ch/nfws?proxy_m3u=1#http://182.92.109.190:1668/migu720/migu720.php?id=dwqws#http://183.215.115.136:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
 数字频道,#genre#
 电视指南,http://183.215.115.136:6610/180000001001/00000001000000000091000000244797/main.m3u8?IASHttpSessionId=OTT

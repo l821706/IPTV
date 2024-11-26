@@ -35,7 +35,7 @@ CETV早期教育,http://183.215.115.136:6610/180000001001/3202306022235436842750
 安徽卫视,http://39.134.240.3/PLTV/2/224/3221225964/index.m3u8
 东南卫视,http://39.134.240.3/PLTV/2/224/3221225968/index.m3u8
 厦门卫视,http://183.215.115.136:6610/180000001001/00000001000000000022000000381023/main.m3u8?IASHttpSessionId=OTT
-海峡卫视,http://l8221706.xiahouyuhan.icu/fujiantv.php?id=21#http://27.152.48.78:1025/udp/239.61.2.151:8894#http://l8221706.gdata.fun/xxqg.php?id=hxws#http://114.105.187.47:9901/tsfile/live/1006_1.m3u8
+海峡卫视,https://live6.fjtv.net/haixiapd/playlist.m3u8?_upt=cc717b9c1732602341#http://l8221706.xiahouyuhan.icu/fujiantv.php?id=21#http://27.152.48.78:1025/udp/239.61.2.151:8894#http://l8221706.gdata.fun/xxqg.php?id=hxws#http://114.105.187.47:9901/tsfile/live/1006_1.m3u8
 三沙卫视,http://183.215.115.136:6610/000000001000/5000000011000288016/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000288016
 广东卫视,http://39.134.240.3/PLTV/2/224/3221225970/index.m3u8
 广西卫视,http://39.134.240.3/PLTV/2/224/3221225978/index.m3u8

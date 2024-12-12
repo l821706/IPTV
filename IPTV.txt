@@ -149,7 +149,7 @@ CHC家庭影院,http://183.215.115.136:6610/180000001001/00000001000000000050000
 快乐购,http://39.134.240.3/PLTV/2/224/3221226196/index.m3u8
 嘉丽购,http://39.134.240.3/PLTV/2/224/3221226176/index.m3u8
 钓鱼频道,#genre#
-四海钓鱼,http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
+四海钓鱼,http://159.75.85.63:36666/migu/895358641.m3u8?migutoken=9818e52e79a4203004be09728900d587b86fd4f6ef5573cba0140a9bac282e3f2b0fddee114ec73bd07c4bc30903d41ec3f4351a99dadc84c88b44cce790cdb6fa091c7229cb2a7bcc3185fba8#http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
 快乐垂钓,http://39.134.240.3/PLTV/2/224/3221226348/index.m3u8
 港澳,#genre#
 凤凰卫视中文台,http://223.105.252.60/PLTV/3/224/3221228527/index.m3u8#http://l8221706.xiahouyuhan.icu/gitv.php?id=HD-10000k-1080P-fhchinese5s#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://eastscreen.tv/ooooo.php?id=fhws#http://l8221706.xiahouyuhan.icu/fhx.php?id=fhzw#http://114.105.169.176:9901/tsfile/live/1063_1.m3u8#http://www.91dos.cn:4022/rtp/239.61.2.184:9092#http://www.jeremyoto.com:82/rtp/233.50.200.191:5140#http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/37/index.m3u8#http://110.185.171.226:96/yximgs.php?id=182#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f

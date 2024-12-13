@@ -35,7 +35,7 @@ CETV早期教育,http://183.215.115.136:6610/180000001001/3202306022235436842750
 安徽卫视,http://39.134.240.3/PLTV/2/224/3221225964/index.m3u8
 东南卫视,http://39.134.240.3/PLTV/2/224/3221225968/index.m3u8
 厦门卫视,http://183.215.115.136:6610/180000001001/00000001000000000022000000381023/main.m3u8?IASHttpSessionId=OTT
-海峡卫视,http://l8221706.xiahouyuhan.icu/fujiantv.php?id=21#http://27.152.48.78:1025/udp/239.61.2.151:8894#http://l8221706.gdata.fun/xxqg.php?id=hxws#http://114.105.169.176:9901/tsfile/live/1006_1.m3u8
+海峡卫视,https://migu.freetv.top/migu/849119120.m3u8?migutoken=def6639d7dff62bf9d4e3101d7a2eb87743fc3c2a3470122bc69f196e2239bbc9de9cc234180f2b702de947a995004c2ae47aed4ec8eb652ec5e4e4c1c7030631b23e8241598b96b065f8a3276#http://l8221706.xiahouyuhan.icu/fujiantv.php?id=21#http://27.152.48.78:1025/udp/239.61.2.151:8894#http://l8221706.gdata.fun/xxqg.php?id=hxws#http://114.105.169.176:9901/tsfile/live/1006_1.m3u8
 三沙卫视,http://183.215.115.136:6610/000000001000/5000000011000288016/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000288016
 广东卫视,http://39.134.240.3/PLTV/2/224/3221225970/index.m3u8
 广西卫视,http://39.134.240.3/PLTV/2/224/3221225978/index.m3u8
@@ -149,7 +149,7 @@ CHC家庭影院,http://183.215.115.136:6610/180000001001/00000001000000000050000
 快乐购,http://39.134.240.3/PLTV/2/224/3221226196/index.m3u8
 嘉丽购,http://39.134.240.3/PLTV/2/224/3221226176/index.m3u8
 钓鱼频道,#genre#
-四海钓鱼,http://159.75.85.63:36666/migu/895358641.m3u8?migutoken=9818e52e79a4203004be09728900d587b86fd4f6ef5573cba0140a9bac282e3f2b0fddee114ec73bd07c4bc30903d41ec3f4351a99dadc84c88b44cce790cdb6fa091c7229cb2a7bcc3185fba8#http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
+四海钓鱼,https://migu.freetv.top/migu/895358641.m3u8?migutoken=09f98729d4f536f23d39627b8ea729d074bd9bc8c7aceaf70800a1076c7623b46f28a25d9ba0d6840bf6872ed72537ee4f790d31292588eed32ace8814fba99a09cde45f4ce0d19a0a2d41b74c#http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
 快乐垂钓,http://39.134.240.3/PLTV/2/224/3221226348/index.m3u8
 港澳,#genre#
 凤凰卫视中文台,http://223.105.252.60/PLTV/3/224/3221228527/index.m3u8#http://l8221706.xiahouyuhan.icu/gitv.php?id=HD-10000k-1080P-fhchinese5s#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://eastscreen.tv/ooooo.php?id=fhws#http://l8221706.xiahouyuhan.icu/fhx.php?id=fhzw#http://114.105.169.176:9901/tsfile/live/1063_1.m3u8#http://www.91dos.cn:4022/rtp/239.61.2.184:9092#http://www.jeremyoto.com:82/rtp/233.50.200.191:5140#http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/37/index.m3u8#http://110.185.171.226:96/yximgs.php?id=182#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f

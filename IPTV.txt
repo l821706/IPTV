@@ -62,7 +62,7 @@ CETV早期教育,http://183.215.115.136:6610/180000001001/3202306022235436842750
 重庆卫视,http://39.134.240.3/PLTV/2/224/3221225966/index.m3u8
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0#https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://183.215.115.136:6610/180000001001/00000001000000000022000000381024/main.m3u8?IASHttpSessionId=OTT
 农林卫视,http://183.215.115.136:6610/000000001000/2000000003000000046/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000046
-大湾区卫视,http://nn.7x9d.cn/组播/咪咕视频.php?id=dwqws#http://183.215.115.136:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
+大湾区卫视,http://hms3652nc3747353878.live.aikan.miguvideo.com/wh7f454c46tw4272855364_342168527/migu/kailu/dawanquws/211204/20231020/01.m3u8?msisdn=a5fd36f310c1199e87e722953f630b4f&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.104.119.101&timestamp=20241223133007&ContentId=265218882&timezone=UTC&netType=Cellular&clientType=Android&zjAppVersion=915&zjClientId=fa8369c0be5431ec&mtv_session=3da7ad5fac110cda1e2ef525afd4a066&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9d8249873223ef6135b1fe3cb84bd41#http://nn.7x9d.cn/组播/咪咕视频.php?id=dwqws#http://183.215.115.136:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
 数字频道,#genre#
 电视指南,http://183.215.115.136:6610/180000001001/00000001000000000091000000244797/main.m3u8?IASHttpSessionId=OTT
 第一剧场,http://183.215.115.136:6610/180000001001/00000001000000000091000000244808/main.m3u8?IASHttpSessionId=OTT
@@ -149,7 +149,7 @@ CHC家庭影院,http://183.215.115.136:6610/180000001001/00000001000000000050000
 快乐购,http://39.134.240.3/PLTV/2/224/3221226196/index.m3u8
 嘉丽购,http://39.134.240.3/PLTV/2/224/3221226176/index.m3u8
 钓鱼频道,#genre#
-四海钓鱼,http://nn.7x9d.cn/组播/咪咕视频.php?id=shdy#http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
+四海钓鱼,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1594642123_-1739463849/wd_r4/peoplecn/shdiaoyu/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=265667494&timezone=UTC&mtv_session=62fe26ea17a6225b620ad6528d069bad&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1dd468b7cedccd815604e427c9d0d8f7#http://nn.7x9d.cn/组播/咪咕视频.php?id=shdy#http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
 快乐垂钓,http://39.134.240.3/PLTV/2/224/3221226348/index.m3u8
 港澳,#genre#
 凤凰卫视中文台,http://223.105.252.60/PLTV/3/224/3221228527/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://ali.hlspull.yximgs.com/live/diyp_fh2.flv#http://l8221706.us.kg/fhx.php?id=fhzw#http://114.105.175.88:9901/tsfile/live/1063_1.m3u8#http://www.91dos.cn:4022/rtp/239.61.2.184:9092#http://www.jeremyoto.com:82/rtp/233.50.200.191:5140#http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/37/index.m3u8#http://110.185.171.226:96/yximgs.php?id=182#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f

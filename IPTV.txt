@@ -80,12 +80,12 @@ CETV早期教育,http://183.215.115.136:6610/180000001001/3202306022235436842750
 央视台球,http://183.215.115.136:6610/180000001001/00000001000000000091000000244803/main.m3u8?IASHttpSessionId=OTT
 高尔夫网球,http://183.215.115.136:6610/180000001001/00000001000000000091000000244801/main.m3u8?IASHttpSessionId=OTT
 央视文化精品,http://183.215.115.136:6610/180000001001/00000001000000000091000000244810/main.m3u8?IASHttpSessionId=OTT
-央视卫生健康,http://101.22.74.98:8888/udp/239.253.94.38:6636#http://111.167.176.42:4022/udp/225.1.2.165:5002#http://180.212.166.146:4022/udp/239.5.1.131:5000#http://61.143.227.162:10000/udp/239.77.0.212:5146#http://www.aicarxc.top:8888/udp/239.11.0.185:1025#http://218.86.152.181:4022/udp/238.255.3.109:5999
+央视卫生健康,http://101.25.228.53:4022/udp/239.253.94.38:6636#http://111.162.166.96:8686/udp/225.1.2.165:5002#http://180.212.166.146:4022/udp/239.5.1.131:5000#http://113.76.150.190:4022/udp/239.77.0.212:5146#http://www.aicarxc.top:8888/udp/239.11.0.185:1025#http://1.49.242.186:8881/udp/238.255.3.109:5999
 央视书画频道,http://183.215.115.136:6610/180000001001/00000001000000000050000000448843/main.m3u8?IASHttpSessionId=OTT
 五星体育,http://183.215.115.136:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 劲爆体育,http://183.215.115.136:6610/000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 魅力足球,http://183.215.115.136:6610/000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-新视觉,http://60.31.139.125:4000/udp/236.78.79.9:59000#http://120.76.248.139/live/bfgd/4200000249.m3u8#http://i2.ekesh.cn:4001/udp/239.12.22.33:10001#http://202.168.187.221:4001/udp/239.12.22.33:10001#http://183.6.69.75:4001/udp/239.12.22.33:10001#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
+新视觉,http://60.31.139.125:4000/udp/236.78.79.9:59000#http://120.76.248.139/live/bfgd/4200000249.m3u8#http://qjrhc.jydjd.top:2911/udp/224.1.100.136:11111#http://i2.ekesh.cn:4001/udp/239.12.22.33:10001#http://202.168.187.221:4001/udp/239.12.22.33:10001#http://183.6.69.75:4001/udp/239.12.22.33:10001#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
 游戏风云,http://183.215.115.136:6610/000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 天元围棋,http://39.134.240.3/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.3/PLTV/2/224/3221225809/index.m3u8
@@ -140,7 +140,7 @@ CHC家庭影院,http://183.215.115.136:6610/180000001001/00000001000000000050000
 茶频道,http://183.215.115.136:6610/180000001001/00000001000000000025000000316196/index.m3u8?IASHttpSessionId=OTT
 先锋乒羽,http://39.134.240.3/PLTV/2/224/3221226006/index.m3u8
 湖南教育,http://183.215.115.136:6610/180000001001/00000001000000000023000000196697/main.m3u8?IASHttpSessionId=OTT#http://183.215.115.136:6610/180000001001/00000001000000000003000000104065/main.m3u8?IASHttpSessionId=OTTIASHttpSessionId=OTT
-湖南导视,http://111.8.242.126:9999/tsfile/live/1017_1.m3u8#http://124.231.214.5:9999/tsfile/live/1085_1.m3u8
+湖南导视,http://111.8.242.126:9999/tsfile/live/1017_1.m3u8#http://124.231.215.110:9999/tsfile/live/1085_1.m3u8
 长沙新闻,http://39.134.240.3/PLTV/2/224/3221226200/index.m3u8
 长沙政法,http://39.134.240.3/PLTV/2/224/3221226202/index.m3u8
 怀化新闻综合,http://183.215.115.136:6610/180000001001/00000001000000000016000000287147/index.m3u8?IASHttpSessionId=OTT
@@ -199,7 +199,7 @@ now新闻台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74#P
 港台电视34台,https://rthktv34live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 港台电视35台,https://rthktv35live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8#https://rthktv35live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 港台电视36台,P2p://generationnexxxt.com:19806/669b838b000a6b509fbd6a5e20670d8d
-星空卫视,http://114.105.175.88:9901/tsfile/live/0117_1.m3u8#http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0#http://117.114.153.18:8180/TV00000000000000000071@HHZT#http://13457610200.8866.org:2018/live/星空卫视/index.m3u8#http://119.129.172.197:8081/hls/18/index.m3u8#http://wouu.net:9977/udp/239.93.0.156:2193#P2p://generationnexxxt.com:19806/e8fc863e98694c568c1abf29190c149c
+星空卫视,http://114.105.175.88:9901/tsfile/live/0117_1.m3u8#http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0#http://117.114.153.18:8180/TV00000000000000000071@HHZT#http://13457610200.8866.org:2018/live/星空卫视/index.m3u8#http://119.129.172.197:8081/hls/18/index.m3u8#http://wouu.net:9977/udp/239.93.0.156:2193#http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111#P2p://generationnexxxt.com:19806/e8fc863e98694c568c1abf29190c149c
 ChannelV,http://114.105.175.88:9901/tsfile/live/0141_2.m3u8##http://117.114.153.18:8180/TV00000000000000000067@HHZT#http://wouu.net:9977/udp/239.93.0.157:2194#P2p://generationnexxxt.com:19806/b0e9c93b93a140df812f05eb754072a0
 台湾,#genre#
 BBC Lifestyle,P2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b

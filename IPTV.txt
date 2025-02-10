@@ -440,3 +440,5 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 咪咕体育直播18,http://183.215.115.136:6610/000000001000/0/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=ace
 咪咕体育直播19,http://183.215.115.136:6610/000000001000/0/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=ace
 咪咕体育直播20,http://183.215.115.136:6610/000000001000/0/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=ace
+周杰伦MV,#genre#
+周杰伦,http://l8221706.us.kg/douyu.php?id=7537296#http://8.138.90.107/鱼公众号睡眼迷离的猫.php?id=7537296

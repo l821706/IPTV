@@ -35,7 +35,7 @@ CETV早期教育,http://183.215.115.136:6610/180000001001/3202306022235436842750
 安徽卫视,http://39.134.240.3/PLTV/2/224/3221225964/index.m3u8
 东南卫视,http://39.134.240.3/PLTV/2/224/3221225968/index.m3u8
 厦门卫视,http://183.215.115.136:6610/180000001001/00000001000000000022000000381023/main.m3u8?IASHttpSessionId=OTT
-海峡卫视,http://z.b.bkpcp.top/m.php?id=hxws#http://l8221706.us.kg/fujiantv.php?id=3#http://110.89.8.166:4022/udp/239.61.2.151:8894#http://l8221706.cloudns.org/xxqg.php?id=hxws#http://114.105.172.184:9901/tsfile/live/1006_1.m3u8
+海峡卫视,http://hk.666230.xyz/公众号睡眼迷离的猫/bb.php?id=hxwshd4m/4000000.m3u8#http://z.b.bkpcp.top/m.php?id=hxws#http://l8221706.us.kg/fujiantv.php?id=3#http://110.89.8.166:4022/udp/239.61.2.151:8894#http://l8221706.cloudns.org/xxqg.php?id=hxws#http://114.105.172.184:9901/tsfile/live/1006_1.m3u8
 三沙卫视,http://183.215.115.136:6610/000000001000/5000000011000288016/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000288016
 广东卫视,http://39.134.240.3/PLTV/2/224/3221225970/index.m3u8
 广西卫视,http://39.134.240.3/PLTV/2/224/3221225978/index.m3u8
@@ -85,7 +85,7 @@ CETV早期教育,http://183.215.115.136:6610/180000001001/3202306022235436842750
 五星体育,http://183.215.115.136:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 劲爆体育,http://183.215.115.136:6610/000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 魅力足球,http://183.215.115.136:6610/000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-新视觉,http://60.31.139.125:4000/udp/236.78.79.9:59000#http://120.76.248.139/live/bfgd/4200000249.m3u8#http://qjrhc.jydjd.top:2911/udp/224.1.100.136:11111#http://i2.ekesh.cn:4001/udp/239.12.22.33:10001#http://202.168.187.221:4001/udp/239.12.22.33:10001#http://183.6.69.75:4001/udp/239.12.22.33:10001#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
+新视觉,http://hk.666230.xyz/公众号睡眼迷离的猫/bb.php?id=xsjhd8m/8000000.m3u8#http://60.31.139.125:4000/udp/236.78.79.9:59000#http://120.76.248.139/live/bfgd/4200000249.m3u8#http://qjrhc.jydjd.top:2911/udp/224.1.100.136:11111#http://i2.ekesh.cn:4001/udp/239.12.22.33:10001#http://202.168.187.221:4001/udp/239.12.22.33:10001#http://183.6.69.75:4001/udp/239.12.22.33:10001#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
 游戏风云,http://183.215.115.136:6610/000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 天元围棋,http://39.134.240.3/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.3/PLTV/2/224/3221225809/index.m3u8

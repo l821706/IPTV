@@ -85,7 +85,7 @@ CETV早期教育,http://183.215.115.136:6610/180000001001/3202306022235436842750
 五星体育,http://183.215.115.136:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 劲爆体育,http://183.215.115.136:6610/000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 魅力足球,http://183.215.115.136:6610/000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-新视觉,http://l8221706.cloudns.org/Best.php?id=xsjhd8m/8000000#http://101.204.187.4:8604/hls.p2p.com/live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8?E=&U=&A=&K=&P=&S=#http://60.31.139.125:4000/udp/236.78.79.9:59000#http://120.76.248.139/live/bfgd/4200000249.m3u8#http://qjrhc.jydjd.top:2911/udp/224.1.100.136:11111#http://i2.ekesh.cn:4001/udp/239.12.22.33:10001#http://202.168.187.221:4001/udp/239.12.22.33:10001#http://183.6.69.75:4001/udp/239.12.22.33:10001#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
+新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8#http://qjrhc.jydjd.top:2911/udp/224.1.100.136:11111#http://i2.ekesh.cn:4001/udp/239.12.22.33:10001#http://202.168.187.221:4001/udp/239.12.22.33:10001#http://183.6.69.75:4001/udp/239.12.22.33:10001#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
 游戏风云,http://183.215.115.136:6610/000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 天元围棋,http://39.134.240.3/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.3/PLTV/2/224/3221225809/index.m3u8
@@ -145,7 +145,7 @@ CHC家庭影院,http://183.215.115.136:6610/180000001001/00000001000000000050000
 长沙政法,http://39.134.240.3/PLTV/2/224/3221226202/index.m3u8
 怀化新闻综合,http://183.215.115.136:6610/180000001001/00000001000000000016000000287147/index.m3u8?IASHttpSessionId=OTT
 怀化经济生活,http://111.8.242.126:9999/tsfile/live/1004_1.m3u8
-靖州综合,http://l8221706.11o.icu/jzzh.php?id=34#http://l8221706.cloudns.org/jzzh.php?id=34#https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
+靖州综合,http://l8221706.freecdn.cloud/jzzh.php?id=34#http://l8221706.cloudns.org/jzzh.php?id=34#https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
 快乐购,http://39.134.240.3/PLTV/2/224/3221226196/index.m3u8
 嘉丽购,http://39.134.240.3/PLTV/2/224/3221226176/index.m3u8
 钓鱼频道,#genre#

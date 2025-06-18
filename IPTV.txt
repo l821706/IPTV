@@ -1,4 +1,4 @@
-央视,#genre#
+http://iptv.666230.xyz/公众号【睡眼迷离的猫】/bst.php?id=163央视,#genre#
 CCTV1,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000007000000001243#http://39.134.240.3/PLTV/2/224/3221226134/index.m3u8
 CCTV2,http://39.134.240.3/PLTV/2/224/3221226188/index.m3u8
 CCTV3,http://39.134.240.3/PLTV/2/224/3221226190/index.m3u8
@@ -35,7 +35,7 @@ CETV早期教育,http://183.215.115.136:6610/180000001001/3202306022235436842750
 安徽卫视,http://39.134.240.3/PLTV/2/224/3221225964/index.m3u8
 东南卫视,http://39.134.240.3/PLTV/2/224/3221225968/index.m3u8
 厦门卫视,http://183.215.115.136:6610/180000001001/00000001000000000022000000381023/main.m3u8?IASHttpSessionId=OTT
-海峡卫视,http://goo.bkpcp.top/mg/hxws#http://l8221706.dpdns.org/fujiantv.php?id=3#http://110.89.8.166:4022/udp/239.61.2.151:8894#http://114.105.172.184:9901/tsfile/live/1006_1.m3u8
+海峡卫视,http://iptv.666230.xyz/公众号【睡眼迷离的猫】/bst.php?id=163#http://l8221706.dpdns.org/fujiantv.php?id=3#http://110.89.8.166:4022/udp/239.61.2.151:8894#http://114.105.172.184:9901/tsfile/live/1006_1.m3u8
 三沙卫视,http://183.215.115.136:6610/000000001000/5000000011000288016/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000288016
 广东卫视,http://39.134.240.3/PLTV/2/224/3221225970/index.m3u8
 广西卫视,http://39.134.240.3/PLTV/2/224/3221225978/index.m3u8

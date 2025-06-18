@@ -1,4 +1,4 @@
-http://iptv.666230.xyz/公众号【睡眼迷离的猫】/bst.php?id=163央视,#genre#
+央视,#genre#
 CCTV1,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000007000000001243#http://39.134.240.3/PLTV/2/224/3221226134/index.m3u8
 CCTV2,http://39.134.240.3/PLTV/2/224/3221226188/index.m3u8
 CCTV3,http://39.134.240.3/PLTV/2/224/3221226190/index.m3u8

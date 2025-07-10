@@ -181,7 +181,7 @@ HKC 18,P2p://generationnexxxt.com:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9
 Thrill,P2p://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a
 now财经台,P2p://generationnexxxt.com:19806/f0dd1f92af2845c2abd2ff29aff2b8ca#P2p://generationnexxxt.com:19806/415e15f33f8b4b5b95a400a406abd534
 天映经典,http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映频道(国)#http://bx.757888.xyz/api.php?id=tyjd#http://bxtv.757888.xyz/stream/bxtv/null-4/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
-美亚电影台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=美亚电影(国)#http://bx.757888.xyz/api.php?id=meiya#http://bxtv.757888.xyz/stream/bxtv/null-3/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7#P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
+美亚电影台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=美亚电影(国)#http://fr-us7.jdiptv.cc/live/xgmydygy.m3u8#http://bx.757888.xyz/api.php?id=meiya#http://bxtv.757888.xyz/stream/bxtv/null-3/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7#P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
 18台,http://bx.757888.xyz/api.php?id=18#http://bxtv.757888.xyz/stream/bxtv/18/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7#P2p://generationnexxxt.com:19806/2cd619b81446414fb605daa1e86bebd6
 HOY资讯台,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
 Hands Up,P2p://generationnexxxt.com:19806/7c21e515d5264c9fa21035456fd5024a

@@ -255,7 +255,6 @@ ROCK Extreme,P2p://generationnexxxt.com:19806/337165af094e40b48fb6db958ffd1cdc
 华视新闻,P2p://generationnexxxt.com:19806/ad4759ce4ff244efaa766154165e5d39#https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=4gtv-4gtv052
 CN卡通频道,P2p://generationnexxxt.com:19806/7eb800b1540d4aab9365efc149622aa0
 NHK新闻资讯台,P2p://generationnexxxt.com:19806/6dd38f99d9ca484aa3f0a2a50f60ba0f
-美亚电影台HD,P2p://generationnexxxt.com:19806/6c34f21c2c634e5db469a2971a6e4ed0
 龙华电影,http://bx.757888.xyz/api.php?id=lhdy#P2p://generationnexxxt.com:19806/40368423d7dc44baaac3fbfc644ee9bf
 Smart知识台,P2p://generationnexxxt.com:19806/b90dd56d139b4ef9af62cfa2a07478f8
 靖天映画,P2p://generationnexxxt.com:19806/02870872a71c4d2296b35dd02d5a9973
@@ -295,7 +294,7 @@ HITS,P2p://generationnexxxt.com:19806/512347b10e364e9bb4d436f495b1a8be
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#P2p://generationnexxxt.com:19806/96f9b2974a86449f9a6f881b4e23ca03
 三立新闻台,P2p://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1
 TVBS新闻台,P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9#http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8#https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=4gtv-4gtv072#http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=J0oT78&tk=hbCoCCVCBAco#http://156.253.12.5:932/tslive/IPTV.php?id=TVBS#P2p://generationnexxxt.com:19806/5fe15c41a5ed4d5f9262ee28464c45c0#http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8#https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=4gtv-4gtv073
+TVBS,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBSHD#http://156.253.12.5:932/tslive/IPTV.php?id=TVBS#P2p://generationnexxxt.com:19806/5fe15c41a5ed4d5f9262ee28464c45c0#http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8#https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=4gtv-4gtv073
 东森财经新闻台,P2p://generationnexxxt.com:19806/5634f613b7f84f81a5c56a6af4311d57
 非凡新闻台,P2p://generationnexxxt.com:19806/3d7f2e1d0e04407ba29c656092041b09#https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=4gtv-4gtv010
 MOMO综合台,P2p://generationnexxxt.com:19806/bc7a77f2d1a54242a2b845916fcb726c

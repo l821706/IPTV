@@ -111,8 +111,8 @@ CHC家庭影院,http://183.215.115.138:6610/180000001001/00000001000000000050000
 金色学堂,http://183.215.115.138:6610/000000001000/5000000010000026105/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
 东方财经,http://183.215.115.138:6610/000000001000/5000000007000010003/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 第一财经,http://183.215.115.138:6610/000000001000/5000000010000027146/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
-家庭理财,http://39.134.240.4/PLTV/2/224/3221226364/index.m3u8
 财富天下,http://39.134.240.4/PLTV/2/224/3221226366/index.m3u8
+武术世界,http://183.215.115.138:6610/180000001001/00000001000000000064000000308859/main.m3u8?IASHttpSessionId=OTT
 梨园频道,http://183.215.115.138:6610/180000001001/00000001000000000064000000308847/main.m3u8?IASHttpSessionId=OTT
 文物宝库,http://183.215.115.138:6610/180000001001/00000001000000000064000000308848/main.m3u8?IASHttpSessionId=OTT
 国学频道,http://www.huakangyaoye.cn:8800/udp/225.1.2.129:11674#http://115.60.241.249:2000/udp/225.1.4.196:1311#http://183.215.115.138:6610/180000001001/32022110411133186725376756113972/main.m3u8?IASHttpSessionId=OTT
@@ -293,6 +293,7 @@ HITS,P2p://generationnexxxt.com:19806/512347b10e364e9bb4d436f495b1a8be
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#P2p://generationnexxxt.com:19806/96f9b2974a86449f9a6f881b4e23ca03
 三立新闻台,P2p://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1
 TVBS新闻台,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8#http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8#https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=4gtv-4gtv072#http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8#http://kkk.888.3116598.xyz/api.php?n=HKTV&id=X57n7p&tk=ZcM6GX3iPS3c#http://156.253.12.5:932/tslive/IPTV.php?id=TVBS#P2p://generationnexxxt.com:19806/5fe15c41a5ed4d5f9262ee28464c45c0#http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8#https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=4gtv-4gtv073
 东森财经新闻台,P2p://generationnexxxt.com:19806/5634f613b7f84f81a5c56a6af4311d57
 非凡新闻台,P2p://generationnexxxt.com:19806/3d7f2e1d0e04407ba29c656092041b09#https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=4gtv-4gtv010
 MOMO综合台,P2p://generationnexxxt.com:19806/bc7a77f2d1a54242a2b845916fcb726c

@@ -143,7 +143,7 @@ CHC家庭影院,http://183.215.115.138:6610/180000001001/00000001000000000050000
 长沙政法,http://39.134.240.4/PLTV/2/224/3221226202/index.m3u8
 怀化新闻综合,http://183.215.115.138:6610/180000001001/00000001000000000016000000287147/index.m3u8?IASHttpSessionId=OTT
 怀化经济生活,http://111.8.242.142:4085/tsfile/live/1004_1.m3u8
-靖州综合,http://l8221706.241817062.xyz/jzzh.php?id=34#https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
+靖州综合,http://www.dsk.cc/p/tc.html?id=http://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8#http://l8221706.241817062.xyz/jzzh.php?id=34#https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
 快乐购,http://39.134.240.4/PLTV/2/224/3221226196/index.m3u8
 嘉丽购,http://39.134.240.4/PLTV/2/224/3221226176/index.m3u8
 钓鱼频道,#genre#

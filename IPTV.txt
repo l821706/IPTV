@@ -35,8 +35,7 @@ CETV早期教育,http://183.215.115.138:6610/180000001001/3202306022235436842750
 安徽卫视,http://39.134.240.4/PLTV/2/224/3221225964/index.m3u8
 东南卫视,http://39.134.240.4/PLTV/2/224/3221225968/index.m3u8
 厦门卫视,http://183.215.115.138:6610/180000001001/00000001000000000022000000381023/main.m3u8?IASHttpSessionId=OTT
-海峡卫视,https://fjcm.iptv.darwinchow.com/channel/haixiaweishi?livekey=01WQhP3G3rqn4Vgp86tnpFmKqbdM0MlgwiInX&userkey=5ef532580ec111d0#http://l8221706.qzz.io/miguaikan.php?id=98395285f1edf12ae051f6e22728faca#http://www.dsk.cc/php/ql.php?id=hxws#http://38.64.72.148:80/hls/modn/list/4009/chunklist1.m3u8#http://l8221706.qzz.io/fujiantv.php?id=3#http://110.89.8.166:4022/udp/239.61.2.151:8894#http://114.105.172.184:9901/tsfile/live/1006_1.m3u8
-三沙卫视,http://183.215.115.138:6610/000000001000/5000000011000288016/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000288016
+海峡卫视,https://fjcm.iptv.darwinchow.com/channel/haixiaweishi?livekey=01WQhP3G3rqn4Vgp86tnpFmKqbdM0MlgwiInX&userkey=5ef532580ec111d0#http://l8221706.qzz.io/miguaikan.php?id=98395285f1edf12ae051f6e22728faca#http://www.dsk.cc/php/ql.php?id=hxws#http://38.64.72.148:80/hls/modn/list/4009/chunklist1.m3u8#http://l8221706.qzz.io/ty189.php?id=hxws#http://l8221706.qzz.io/fujiantv.php?id=3#http://110.89.8.166:4022/udp/239.61.2.151:8894#http://114.105.172.184:9901/tsfile/live/1006_1.m3u8
 广东卫视,http://39.134.240.4/PLTV/2/224/3221225970/index.m3u8
 广西卫视,http://39.134.240.4/PLTV/2/224/3221225978/index.m3u8
 贵州卫视,http://39.134.240.4/PLTV/2/224/3221225990/index.m3u8
@@ -427,3 +426,4 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 咪咕体育直播8,http://39.135.5.167/000000001000/3000000001000007218/index.m3u8
 咪咕体育直播9,http://39.135.5.162/000000001000/3000000001000005308/index.m3u8
 咪咕体育直播10,http://39.135.5.162/000000001000/3000000001000005969/index.m3u8
+

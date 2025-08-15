@@ -123,7 +123,7 @@ CHC家庭影院,http://183.215.115.138:6610/180000001001/00000001000000000050000
 生态环境,http://183.215.115.138:6610/180000001001/32022110216491442983478388082464/main.m3u8?IASHttpSessionId=OTT
 发现之旅,http://k.061899.xyz/m.php?id=fxzl#http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=#http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8#http://175.22.226.131:888/hls/79/index.m3u8#http://www.kaniptv.cn/sxg.php?id=fxzl_2000#http://l8221706.qzz.io/tptv.php?p=gitv&id=G_FAXIANZL.m3u8#http://101.204.187.4:8604/hls.p2p.com/live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=&U=&A=&K=&P=&S=#http://a.limingzi.com:8888/udp/239.253.246.162:8000#http://110.89.8.166:4022/udp/239.61.3.74:9962#http://110.253.59.39:8686/udp/239.253.94.30:6629#http://117.114.153.18:8182/hls/TV00000000000000000131@HHZT.m3u8#http://120.76.248.139/live/bfgd/4200000151.m3u8
 老故事,http://183.215.115.138:6610/180000001001/00000001000000000050000000448839/main.m3u8?IASHttpSessionId=OTT#http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8
-中华特产,https://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227502/index.m3u8?livekey=01WQhP3G3rqn4Vgp86ygtY4iFJ5bBCGWnVqzM&userkey=5ef532580ec111d0&token=9AQFY2ReHLN79Oj7v28K#http://60.223.72.15:8002/udp/226.0.2.128:8936#http://120.76.248.139/live/bfgd/4200000158.m3u8
+中华特产,https://fjcm.iptv.darwinchow.com/channel/zhonghuatechan?livekey=01WQhP3G3rqn4Vgp86z6cml4h51fytrIPm30q&userkey=5ef532580ec111d0#http://60.223.72.15:8002/udp/226.0.2.128:8936#http://120.76.248.139/live/bfgd/4200000158.m3u8
 地方台,#genre#
 湖南经视,http://39.134.240.4/PLTV/2/224/3221226036/index.m3u8
 湖南都市,http://39.134.240.4/PLTV/2/224/3221226146/index.m3u8
@@ -427,4 +427,5 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 咪咕体育直播8,http://39.135.5.167/000000001000/3000000001000007218/index.m3u8
 咪咕体育直播9,http://39.135.5.162/000000001000/3000000001000005308/index.m3u8
 咪咕体育直播10,http://39.135.5.162/000000001000/3000000001000005969/index.m3u8
+
 

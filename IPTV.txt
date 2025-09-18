@@ -35,7 +35,7 @@ CETV早期教育,http://183.215.115.138:6610/180000001001/3202306022235436842750
 安徽卫视,http://39.134.240.4/PLTV/2/224/3221225964/index.m3u8
 东南卫视,http://39.134.240.4/PLTV/2/224/3221225968/index.m3u8
 厦门卫视,http://183.215.115.138:6610/180000001001/00000001000000000022000000381023/main.m3u8?IASHttpSessionId=OTT
-海峡卫视,https://live.tv.darwinchow.com/channel/haixiaweishi?livekey=01WQhP3G3rqn4Vgp86z1uJaOCmIBu5PWJNZe8&userkey=5ef532580ec111d0#http://l8221706.dpdns.org/xxqg.php?id=2eb43b20727e4218af6f26850b51ccee#http://www.dsk.cc/php/ql.php?id=hxws#http://38.64.72.148:80/hls/modn/list/4009/chunklist1.m3u8#http://l8221706.dpdns.org/ty189.php?id=hxws#http://l8221706.dpdns.org/fujiantv.php?id=3#http://110.89.8.166:4022/udp/239.61.2.151:8894#http://114.105.172.184:9901/tsfile/live/1006_1.m3u8
+海峡卫视,https://live.tv.darwinchow.com/channel/haixiaweishi?livekey=01WUmEIiqpDDcoCjkk7cji0rgIY84vlD9XyHx&userkey=ba7eb8e14ee4f8a9#http://l8221706.dpdns.org/xxqg.php?id=2eb43b20727e4218af6f26850b51ccee#http://www.dsk.cc/php/ql.php?id=hxws#http://38.64.72.148:80/hls/modn/list/4009/chunklist1.m3u8#http://l8221706.dpdns.org/ty189.php?id=hxws#http://l8221706.dpdns.org/fujiantv.php?id=3#http://110.89.8.166:4022/udp/239.61.2.151:8894#http://114.105.172.184:9901/tsfile/live/1006_1.m3u8
 三沙卫视,http://183.215.115.138:6610/000000001000/5000000011000288016/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000288016
 广东卫视,http://39.134.240.4/PLTV/2/224/3221225970/index.m3u8
 广西卫视,http://39.134.240.4/PLTV/2/224/3221225978/index.m3u8
@@ -123,7 +123,7 @@ CHC家庭影院,http://183.215.115.138:6610/180000001001/00000001000000000050000
 生态环境,http://183.215.115.138:6610/180000001001/32022110216491442983478388082464/main.m3u8?IASHttpSessionId=OTT
 发现之旅,http://k.061899.xyz/m.php?id=fxzl#http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=#http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8#http://175.22.226.131:888/hls/79/index.m3u8#http://www.kaniptv.cn/sxg.php?id=fxzl_2000#http://l8221706.dpdns.org/tptv.php?p=gitv&id=G_FAXIANZL.m3u8#http://101.204.187.4:8604/hls.p2p.com/live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=&U=&A=&K=&P=&S=#http://a.limingzi.com:8888/udp/239.253.246.162:8000#http://110.89.8.166:4022/udp/239.61.3.74:9962#http://110.253.59.39:8686/udp/239.253.94.30:6629#http://117.114.153.26:8182/hls/TV00000000000000000131@HHZT.m3u8#http://120.76.248.139/live/bfgd/4200000151.m3u8
 老故事,http://183.215.115.138:6610/180000001001/00000001000000000050000000448839/main.m3u8?IASHttpSessionId=OTT#http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8
-中华特产,https://live.tv.darwinchow.com/channel/zhonghuatechan?livekey=01WQhP3G3rqn4Vgp86z6cml4h51fytrIPm30q&userkey=5ef532580ec111d0#http://60.223.72.15:8002/udp/226.0.2.128:8936#http://120.76.248.139/live/bfgd/4200000158.m3u8
+中华特产,https://live.tv.darwinchow.com/channel/zhonghuatechan?livekey=01WUmEIiqpDDcoCjkk7cji0rgIY84vlD9XyHx&userkey=ba7eb8e14ee4f8a9#http://60.223.72.15:8002/udp/226.0.2.128:8936#http://120.76.248.139/live/bfgd/4200000158.m3u8
 地方台,#genre#
 湖南经视,http://39.134.240.4/PLTV/2/224/3221226036/index.m3u8
 湖南都市,http://39.134.240.4/PLTV/2/224/3221226146/index.m3u8

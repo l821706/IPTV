@@ -427,7 +427,7 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 咪咕体育直播8,http://39.135.5.167/000000001000/3000000001000007218/index.m3u8
 咪咕体育直播9,http://39.135.5.162/000000001000/3000000001000005308/index.m3u8
 咪咕体育直播10,http://39.135.5.162/000000001000/3000000001000005969/index.m3u8
-4K超高清频道,#genre#
+卫视4K超高清频道,#genre#
 湖南卫视4K,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000064000000308827
 东方卫视4K,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32025091110262078079170451541005
 江苏卫视4K,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32025091110262178928213010539289
@@ -437,4 +437,5 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 深圳卫视4K,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32025061216044934209640975946187
 山东卫视4K,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32025091110262122088149630612658
 四川卫视4K,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32025091110262063636605981698869
+
 

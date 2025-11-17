@@ -21,7 +21,7 @@ CCTV4K,http://183.215.115.138:6610/180000001001/32023092211020848462000290559536
 CGTN,http://39.134.240.4/PLTV/2/224/3221225936/index.m3u8
 CETV1,http://183.215.115.138:6610/180000001001/00000001000000000016000000007220/index.m3u8?IASHttpSessionId=OTT
 CETV2,http://183.215.115.138:6610/180000001001/00000001000000000024000000361367/index.m3u8?IASHttpSessionId=OTT
-CETV3,http://iptv.666230.xyz/iptv/jsyd.php/G_CETV-3#http://120.198.234.199:8088/000000001001/1.m3u8?HlsProfileId=&cmcc_cid=PLTV/651/224/3221227603#http://l8221706.dpdns.org/tptv.php?p=gitv&id=G_CETV-3.m3u8#http://iptv.huuc.edu.cn/hls/cetv3.m3u8#http://220.173.26.200:4022/udp/239.81.1.62:4056#http://117.114.153.26:8182/hls/TV00000000000000000009@HHZT.m3u8
+CETV3,http://l8221706.dpdns.org/jsyd.php?id=G_CETV-3/G_CETV-3#http://120.198.234.199:8088/000000001001/1.m3u8?HlsProfileId=&cmcc_cid=PLTV/651/224/3221227603#http://l8221706.dpdns.org/tptv.php?p=gitv&id=G_CETV-3.m3u8#http://iptv.huuc.edu.cn/hls/cetv3.m3u8#http://220.173.26.200:4022/udp/239.81.1.62:4056#http://117.114.153.26:8182/hls/TV00000000000000000009@HHZT.m3u8
 CETV4,http://183.215.115.138:6610/180000001001/00000001000000001017000000440665/main.m3u8?IASHttpSessionId=OTT
 CETV早期教育,http://183.215.115.138:6610/180000001001/32023060222354368427501888132813/main.m3u8?IASHttpSessionId=OTT
 卫视,#genre#
@@ -83,7 +83,7 @@ CETV早期教育,http://183.215.115.138:6610/180000001001/3202306022235436842750
 央视书画频道,http://183.215.115.138:6610/180000001001/00000001000000000050000000448843/main.m3u8?IASHttpSessionId=OTT
 五星体育,http://183.215.115.138:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 劲爆体育,http://k.061899.xyz/m.php?id=jbty#http://hlsbkmgsplive.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
-新视觉,http://iptv.666230.xyz/iptv/sxg.php/ycxsjH265_4000#http://l8221706.dpdns.org/Best.php?id=xsjhd8m/8000000#http://120.76.248.139/live/bfgd/4200000249.m3u8#http://qjrhc.jydjd.top:2911/udp/224.1.100.136:11111#http://i2.ekesh.cn:4001/udp/239.12.22.33:10001#http://202.168.187.221:4001/udp/239.12.22.33:10001#http://183.6.69.75:4001/udp/239.12.22.33:10001#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
+新视觉,http://l8221706.dpdns.org/sxg.php?id=ycxsjH265_4000#http://l8221706.dpdns.org/Best.php?id=xsjhd8m/8000000#http://120.76.248.139/live/bfgd/4200000249.m3u8#http://qjrhc.jydjd.top:2911/udp/224.1.100.136:11111#http://i2.ekesh.cn:4001/udp/239.12.22.33:10001#http://202.168.187.221:4001/udp/239.12.22.33:10001#http://183.6.69.75:4001/udp/239.12.22.33:10001#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
 游戏风云,http://183.215.115.138:6610/000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 天元围棋,http://39.134.240.4/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.4/PLTV/2/224/3221225809/index.m3u8
@@ -437,10 +437,3 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 咪咕体育直播8,http://39.135.5.167/000000001000/3000000001000007218/index.m3u8
 咪咕体育直播9,http://39.135.5.162/000000001000/3000000001000005308/index.m3u8
 咪咕体育直播10,http://39.135.5.162/000000001000/3000000001000005969/index.m3u8
-
-
-
-
-
-
-

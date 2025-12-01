@@ -96,7 +96,7 @@ CETV早期教育,http://183.215.115.138:6610/180000001001/3202306022235436842750
 优漫卡通,http://39.134.240.4/PLTV/2/224/3221226086/index.m3u8
 优优宝贝,http://39.134.240.4/PLTV/2/224/3221226360/index.m3u8
 动漫秀场,http://183.215.115.138:6610/000000001000/5000000011000031113/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
-新纪实,http://l8221706.dpdns.org/shtv.php?id=jsrw
+新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8#http://binbin.tttttttttt.top/shanghai.php?id=xjs#http://l8221706.dpdns.org/shtv.php?id=jsrw
 纪实科教,http://183.215.115.138:6610/000000001000/5000000011000031204/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031204&livemode=1&stbId=3
 求索纪录,http://183.215.115.138:6610/000000001000/6000000002000032052/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032052
 求索科学,http://183.215.115.138:6610/000000001000/6000000002000032344/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032344
@@ -437,3 +437,4 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 咪咕体育直播8,http://39.135.5.167/000000001000/3000000001000007218/index.m3u8
 咪咕体育直播9,http://39.135.5.162/000000001000/3000000001000005308/index.m3u8
 咪咕体育直播10,http://39.135.5.162/000000001000/3000000001000005969/index.m3u8
+

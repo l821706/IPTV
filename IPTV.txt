@@ -79,7 +79,7 @@ CETV早期教育,http://183.215.115.138:6610/180000001001/3202306022235436842750
 央视台球,http://183.215.115.138:6610/180000001001/00000001000000000091000000244803/main.m3u8?IASHttpSessionId=OTT
 高尔夫网球,http://183.215.115.138:6610/180000001001/00000001000000000091000000244801/main.m3u8?IASHttpSessionId=OTT
 央视文化精品,http://183.215.115.138:6610/180000001001/00000001000000000091000000244810/main.m3u8?IASHttpSessionId=OTT
-央视卫生健康,http://hongzhijiaoyu.net:8188/udp/239.77.0.212:5146
+央视卫生健康,http://ymz.stkeyu.top:8303/udp/239.77.0.212:5146#http://hongzhijiaoyu.net:8188/udp/239.77.0.212:5146
 央视书画频道,http://183.215.115.138:6610/180000001001/00000001000000000050000000448843/main.m3u8?IASHttpSessionId=OTT
 五星体育,http://183.215.115.138:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 劲爆体育,http://k.061899.xyz/m.php?id=jbty#http://hlsbkmgsplive.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
@@ -437,3 +437,4 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 咪咕体育直播8,http://39.135.5.167/000000001000/3000000001000007218/index.m3u8
 咪咕体育直播9,http://39.135.5.162/000000001000/3000000001000005308/index.m3u8
 咪咕体育直播10,http://39.135.5.162/000000001000/3000000001000005969/index.m3u8
+

@@ -59,7 +59,7 @@ CETV早期教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023060222354368
 重庆卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000064000000308825
 西藏卫视,http://39.134.240.4/PLTV/2/224/3221225777/index.m3u8
 新疆卫视,http://39.134.240.4/PLTV/2/224/3221226078/index.m3u8
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000022000000381024
+兵团卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000022000000381024
 海南卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000057000000208265
 三沙卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000031000000068476
 康巴卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000134000000367619
@@ -440,3 +440,4 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 咪咕体育直播8,http://39.135.5.167/000000001000/3000000001000007218/index.m3u8
 咪咕体育直播9,http://39.135.5.162/000000001000/3000000001000005308/index.m3u8
 咪咕体育直播10,http://39.135.5.162/000000001000/3000000001000005969/index.m3u8
+

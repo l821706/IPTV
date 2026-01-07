@@ -138,7 +138,7 @@ CHC家庭影院,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=000000010000000000
 金鹰卡通,http://39.134.240.4/PLTV/2/224/3221226142/index.m3u8
 茶频道,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000025000000316196
 先锋乒羽,http://39.134.240.4/PLTV/2/224/3221226006/index.m3u8
-湖南教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000023000000196697#http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000003000000104065IASHttpSessionId=OTT
+湖南教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000023000000196697#http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000003000000104065
 湖南导视,http://124.231.213.48:9999/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0#http://111.8.242.143:9999/tsfile/live/1017_1.m3u8
 长沙新闻,http://39.134.240.4/PLTV/2/224/3221226200/index.m3u8
 长沙政法,http://39.134.240.4/PLTV/2/224/3221226202/index.m3u8
@@ -440,5 +440,6 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 咪咕体育直播8,http://39.135.5.167/000000001000/3000000001000007218/index.m3u8
 咪咕体育直播9,http://39.135.5.162/000000001000/3000000001000005308/index.m3u8
 咪咕体育直播10,http://39.135.5.162/000000001000/3000000001000005969/index.m3u8
+
 
 

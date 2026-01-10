@@ -89,7 +89,7 @@ CETV早期教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023060222354368
 游戏风云,http://183.215.115.138:6610/000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 天元围棋,http://39.134.240.4/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.4/PLTV/2/224/3221225809/index.m3u8
-中国交通,http://lxj.i234.me:1672/yn.php?type=live&id=525#http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8#http://171.113.183.4:8686/udp/239.69.2.3:11172
+中国交通,http://web.iakoay.com:8001/udp/239.3.1.188:8001#http://123.121.5.22:4000/udp/239.3.1.188:8001#http://lxj.i234.me:1672/yn.php?type=live&id=525#http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8#http://171.113.183.4:8686/udp/239.69.2.3:11172
 百姓健康,https://p2hs.vzan.com/1532537644/njyq869272051046520219/live.m3u8
 北京卡酷,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000090000000215608
 哈哈炫动,http://39.134.240.4/PLTV/2/224/3221226084/index.m3u8
@@ -122,9 +122,9 @@ CHC家庭影院,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=000000010000000000
 环球旅游,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000064000000308870
 环球奇观,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023061416181029613614091027931
 生态环境,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32022110216491442983478388082464
-发现之旅,http://k.061899.xyz/m.php?id=fxzl#http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=#http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8#http://175.22.226.131:888/hls/79/index.m3u8#http://www.kaniptv.cn/sxg.php?id=fxzl_2000#http://l8221706.dpdns.org/tptv.php?p=gitv&id=G_FAXIANZL.m3u8#http://101.204.187.4:8604/hls.p2p.com/live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=&U=&A=&K=&P=&S=#http://a.limingzi.com:8888/udp/239.253.246.162:8000#http://110.89.8.166:4022/udp/239.61.3.74:9962#http://110.253.59.39:8686/udp/239.253.94.30:6629#http://117.114.153.26:8182/hls/TV00000000000000000131@HHZT.m3u8#http://tv.dlwmkj.com/php2021/bfy.php?id=151
+发现之旅,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=#http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8#http://175.22.226.131:888/hls/79/index.m3u8#http://www.kaniptv.cn/sxg.php?id=fxzl_2000#http://l8221706.dpdns.org/tptv.php?p=gitv&id=G_FAXIANZL.m3u8#http://101.204.187.4:8604/hls.p2p.com/live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=&U=&A=&K=&P=&S=#http://a.limingzi.com:8888/udp/239.253.246.162:8000#http://110.89.8.166:4022/udp/239.61.3.74:9962#http://110.253.59.39:8686/udp/239.253.94.30:6629#http://117.114.153.26:8182/hls/TV00000000000000000131@HHZT.m3u8#http://tv.dlwmkj.com/php2021/bfy.php?id=151
 老故事,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000050000000448839#http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8
-中华特产,http://lxj.i234.me:1672/yn.php?type=live&id=544#https://live.tv.darwinchow.com/channel/zhonghuatechan?livekey=01WUmEIiqpDDcoCjkk7cji0rgIY84vlD9XyHx&userkey=ba7eb8e14ee4f8a9#http://60.223.72.15:8002/udp/226.0.2.128:8936#http://120.76.248.139/live/bfgd/4200000158.m3u8
+中华特产,http://171.113.174.245:8686/udp/239.69.2.18:11262#http://sh.lnott.top:880/dx83.m3u8#http://lxj.i234.me:1672/yn.php?type=live&id=544#https://live.tv.darwinchow.com/channel/zhonghuatechan?livekey=01WUmEIiqpDDcoCjkk7cji0rgIY84vlD9XyHx&userkey=ba7eb8e14ee4f8a9#http://60.223.72.15:8002/udp/226.0.2.128:8936#http://tv.dlwmkj.com/php2021/bfy.php?id=158
 地方台,#genre#
 湖南经视,http://39.134.240.4/PLTV/2/224/3221226036/index.m3u8
 湖南都市,http://39.134.240.4/PLTV/2/224/3221226146/index.m3u8
@@ -439,4 +439,3 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 咪咕体育直播8,http://39.135.5.167/000000001000/3000000001000007218/index.m3u8
 咪咕体育直播9,http://39.135.5.162/000000001000/3000000001000005308/index.m3u8
 咪咕体育直播10,http://39.135.5.162/000000001000/3000000001000005969/index.m3u8
-

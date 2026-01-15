@@ -88,7 +88,7 @@ CETV早期教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023060222354368
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0#http://l8221706.dpdns.org/Best.php?id=xsjhd8m/8000000#http://tv.dlwmkj.com/php2021/bfy.php?id=249#http://qjrhc.jydjd.top:2911/udp/224.1.100.136:11111#http://i2.ekesh.cn:4001/udp/239.12.22.33:10001#http://202.168.187.221:4001/udp/239.12.22.33:10001#http://183.6.69.75:4001/udp/239.12.22.33:10001#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
 天元围棋,http://39.134.240.4/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.4/PLTV/2/224/3221225809/index.m3u8
-中国交通,http://web.iakoay.com:8001/udp/239.3.1.188:8001#http://123.121.5.22:4000/udp/239.3.1.188:8001#http://lxj.i234.me:1672/yn.php?type=live&id=525#http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8#http://171.113.183.4:8686/udp/239.69.2.3:11172
+中国交通,http://web.iakoay.com:8001/udp/239.3.1.188:8001#http://lxj.i234.me:1672/yn.php?type=live&id=525#http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8#http://171.113.183.4:8686/udp/239.69.2.3:11172
 百姓健康,https://p2hs.vzan.com/1532537644/njyq869272051046520219/live.m3u8
 北京卡酷,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000090000000215608
 哈哈炫动,http://39.134.240.4/PLTV/2/224/3221226084/index.m3u8
@@ -438,6 +438,7 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 咪咕体育直播8,http://39.135.5.167/000000001000/3000000001000007218/index.m3u8
 咪咕体育直播9,http://39.135.5.162/000000001000/3000000001000005308/index.m3u8
 咪咕体育直播10,http://39.135.5.162/000000001000/3000000001000005969/index.m3u8
+
 
 
 

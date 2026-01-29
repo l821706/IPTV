@@ -21,7 +21,7 @@ CCTV4K,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=320230922110208484620002905
 CGTN,http://39.134.240.4/PLTV/2/224/3221225936/index.m3u8
 CETV1,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000016000000007220
 CETV2,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000024000000361367
-CETV3,http://49.84.70.137:8045/ott.mobaibox.com/PLTV/4/224/3221227018/index.m3u8#http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.241/PLTV/4/224/3221227018/index.m3u8#http://l8221706.dpdns.org/tptv.php?p=gitv&id=G_CETV-3.m3u8#http://iptv.huuc.edu.cn/hls/cetv3.m3u8#http://220.173.26.200:4022/udp/239.81.1.62:4056#http://117.114.153.26:8182/hls/TV00000000000000000009@HHZT.m3u8
+CETV3,http://49.84.70.150:8045/ott.mobaibox.com/PLTV/4/224/3221227018/index.m3u8#http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.241/PLTV/4/224/3221227018/index.m3u8#http://l8221706.dpdns.org/tptv.php?p=gitv&id=G_CETV-3.m3u8#http://iptv.huuc.edu.cn/hls/cetv3.m3u8#http://220.173.26.200:4022/udp/239.81.1.62:4056#http://117.114.153.26:8182/hls/TV00000000000000000009@HHZT.m3u8
 CETV4,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000001017000000440665
 CETV早期教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023060222354368427501888132813
 卫视,#genre#
@@ -63,7 +63,7 @@ CETV早期教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023060222354368
 三沙卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000031000000068476
 康巴卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000134000000367619
 延边卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023031709181220216556910725802
-农林卫视,http://183.215.115.138:6610/000000001000/2000000003000000046/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000046
+农林卫视,http://183.215.115.138:6610/000000001000/1000000005000266003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266003
 大湾区卫视,http://183.215.115.138:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045#http://k.061899.xyz/m.php?id=dwqws
 数字频道,#genre#
 电视指南,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000091000000244797
@@ -438,4 +438,3 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 咪咕体育直播8,http://39.135.5.167/000000001000/3000000001000007218/index.m3u8
 咪咕体育直播9,http://39.135.5.162/000000001000/3000000001000005308/index.m3u8
 咪咕体育直播10,http://39.135.5.162/000000001000/3000000001000005969/index.m3u8
-

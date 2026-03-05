@@ -178,7 +178,7 @@ HKC 18,P2p://generationnexxxt.com:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9
 Thrill,P2p://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a
 now财经台,P2p://generationnexxxt.com:19806/f0dd1f92af2845c2abd2ff29aff2b8ca#P2p://generationnexxxt.com:19806/415e15f33f8b4b5b95a400a406abd534
 天映经典,http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8#http://bx.757888.xyz/api.php?id=tyjd#http://bxtv.757888.xyz/stream/bxtv/null-4/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
-美亚电影台,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn#http://pull-vivek.speedws.com/live/aaamydy.flv#http://iptv.4666888.xyz/iptv2A.php?id=30#http://bxtv.3a.ink/api.php?id=meiya#http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=WYoOxp&tk=aeFo3Lxm1DH1#http://fr-us7.jdiptv.cc/live/xgmydygy.m3u8#P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
+美亚电影台,http://hls.sohu.blog/t33ky#https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn#http://pull-vivek.speedws.com/live/aaamydy.flv#http://iptv.4666888.xyz/iptv2A.php?id=30#http://bxtv.3a.ink/api.php?id=meiya#http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=WYoOxp&tk=aeFo3Lxm1DH1#http://fr-us7.jdiptv.cc/live/xgmydygy.m3u8#P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
 星卫电影台,https://k0udeyd8ye5y1czw240ex951x2c10x5302xx1cz.djvod.ndcimgs.com/bs3/video-hls/5240782769998279315_5b89d96c2cad3de2_4681_hlsb.m3u8?x-ks-ptid=178957423116&x-kcdn-pid=12021&kwai-not-alloc=self-cdn&kcdntag=p:Guangdong;i:ChinaTelecom;ft:UNKNOWN;h:UNKNOWN;pn:webserverHls&ocid=63&ss=vpm
 18台,http://bxtv.3a.ink/api.php?id=18#P2p://generationnexxxt.com:19806/2cd619b81446414fb605daa1e86bebd6
 HOY资讯台,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
@@ -438,3 +438,4 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 咪咕体育直播8,http://39.135.5.167/000000001000/3000000001000007218/index.m3u8
 咪咕体育直播9,http://39.135.5.162/000000001000/3000000001000005308/index.m3u8
 咪咕体育直播10,http://39.135.5.162/000000001000/3000000001000005969/index.m3u8
+

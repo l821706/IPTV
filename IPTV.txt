@@ -64,7 +64,7 @@ CETV早期教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023060222354368
 康巴卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000134000000367619
 延边卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023031709181220216556910725802
 农林卫视,http://183.215.115.138:6610/000000001000/1000000005000266003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266003
-大湾区卫视,http://183.215.115.138:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045#http://k.061899.xyz/m.php?id=dwqws
+大湾区卫视,http://183.215.115.138:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045#http://go.bkpcp.top/mg/dwqws
 数字频道,#genre#
 电视指南,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000091000000244797
 第一剧场,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000091000000244808
@@ -84,7 +84,7 @@ CETV早期教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023060222354368
 央视卫生健康,http://107.150.60.122/live/wsjk.m3u8#http://183.236.43.98:4014/udp/239.77.0.212:5146#http://hongzhijiaoyu.net:8188/udp/239.77.0.212:5146
 央视书画频道,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000050000000448843
 五星体育,http://183.215.115.138:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-劲爆体育,http://k.061899.xyz/m.php?id=jbty#http://hlsbkmgsplive.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+劲爆体育,http://go.bkpcp.top/mg/jbty#http://hlsbkmgsplive.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0#http://l8221706.dpdns.org/Best.php?id=xsjhd8m/8000000#http://tv.dlwmkj.com/php2021/bfy.php?id=249#http://qjrhc.jydjd.top:2911/udp/224.1.100.136:11111#http://i2.ekesh.cn:4001/udp/239.12.22.33:10001#http://202.168.187.221:4001/udp/239.12.22.33:10001#http://183.6.69.75:4001/udp/239.12.22.33:10001#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
 游戏风云,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32024042211010049110856436458678#http://183.215.115.138:6610/000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 天元围棋,http://39.134.240.4/PLTV/2/224/3221226342/index.m3u8
@@ -118,11 +118,11 @@ CHC家庭影院,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=000000010000000000
 文物宝库,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000064000000308848
 国学频道,http://www.huakangyaoye.cn:8800/udp/225.1.2.129:11674#http://115.60.241.249:2000/udp/225.1.4.196:1311#http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32022110411133186725376756113972
 收藏天下,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32022110411090836203478380759910
-中学生频道,http://k.061899.xyz/m.php?id=zxs#http://hlsbkmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=#http://www.kaniptv.cn/sxg.php?id=zxs_4000#http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023061416093545217774427398013
+中学生频道,http://go.bkpcp.top/mg/zxs#http://hlsbkmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=#http://www.kaniptv.cn/sxg.php?id=zxs_4000#http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023061416093545217774427398013
 环球旅游,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000064000000308870
 环球奇观,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023061416181029613614091027931
 生态环境,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32022110216491442983478388082464
-发现之旅,http://k.061899.xyz/m.php?id=fxzl#http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=#http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8#http://175.22.226.131:888/hls/79/index.m3u8#http://www.kaniptv.cn/sxg.php?id=fxzl_2000#http://l8221706.dpdns.org/tptv.php?p=gitv&id=G_FAXIANZL.m3u8#http://101.204.187.4:8604/hls.p2p.com/live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=&U=&A=&K=&P=&S=#http://a.limingzi.com:8888/udp/239.253.246.162:8000#http://110.89.8.166:4022/udp/239.61.3.74:9962#http://110.253.59.39:8686/udp/239.253.94.30:6629#http://117.114.153.26:8182/hls/TV00000000000000000131@HHZT.m3u8#http://tv.dlwmkj.com/php2021/bfy.php?id=151
+发现之旅,http://go.bkpcp.top/mg/fxzl#http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=#http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8#http://175.22.226.131:888/hls/79/index.m3u8#http://www.kaniptv.cn/sxg.php?id=fxzl_2000#http://l8221706.dpdns.org/tptv.php?p=gitv&id=G_FAXIANZL.m3u8#http://101.204.187.4:8604/hls.p2p.com/live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=&U=&A=&K=&P=&S=#http://a.limingzi.com:8888/udp/239.253.246.162:8000#http://110.89.8.166:4022/udp/239.61.3.74:9962#http://110.253.59.39:8686/udp/239.253.94.30:6629#http://117.114.153.26:8182/hls/TV00000000000000000131@HHZT.m3u8#http://tv.dlwmkj.com/php2021/bfy.php?id=151
 老故事,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000050000000448839#http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8
 中华特产,http://tv.sohu.blog/d/mg.php?id=959986618#http://27.24.107.226:60001/udp/239.69.2.18:11262#http://sh.lnott.top:880/dx83.m3u8#http://lxj.i234.me:1672/yn.php?type=live&id=544#https://live.tv.darwinchow.com/channel/zhonghuatechan?livekey=01WUmEIiqpDDcoCjkk7cji0rgIY84vlD9XyHx&userkey=ba7eb8e14ee4f8a9#http://60.223.72.15:8002/udp/226.0.2.128:8936#http://tv.dlwmkj.com/php2021/bfy.php?id=158
 地方台,#genre#

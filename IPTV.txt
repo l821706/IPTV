@@ -35,7 +35,7 @@ CETV早期教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023060222354368
 安徽卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000016000000007224
 东南卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000010000000040459
 厦门卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000022000000381023
-海峡卫视,http://go.bkpcp.top/mg/hxws#https://live.tv.darwinchow.com/channel/haixiaweishi?livekey=01WUmEIiqpDDcoCjkk7cji0rgIY84vlD9XyHx&userkey=ba7eb8e14ee4f8a9#http://l8221706.dpdns.org/xxqg.php?id=2eb43b20727e4218af6f26850b51ccee#http://www.dsk.cc/php/ql.php?id=hxws#http://38.64.72.148:80/hls/modn/list/4009/chunklist1.m3u8#http://l8221706.dpdns.org/ty189.php?id=hxws#http://l8221706.dpdns.org/fujiantv.php?id=3#http://110.89.8.166:4022/udp/239.61.2.151:8894#http://114.105.172.184:9901/tsfile/live/1006_1.m3u8
+海峡卫视,http://go.bkpcp.top/mg/hxws#http://gslbmgsplive.miguvideo.com/migu/kailu/haixiaws/50/20230724/index.m3u8?msisdn=20260314112538ed632d243be24becbcbacdbcb40e0bc2&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20260314112538&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=114.245.219.76&SecurityKey=20260314112538&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1e3371a8406c4dd3fc0739a735db8e0b&ddCalcu=b10eee31839b70d15a3874a0963c740dcdf3#https://live.tv.darwinchow.com/channel/haixiaweishi?livekey=01WUmEIiqpDDcoCjkk7cji0rgIY84vlD9XyHx&userkey=ba7eb8e14ee4f8a9#http://l8221706.dpdns.org/xxqg.php?id=2eb43b20727e4218af6f26850b51ccee#http://www.dsk.cc/php/ql.php?id=hxws#http://38.64.72.148:80/hls/modn/list/4009/chunklist1.m3u8#http://l8221706.dpdns.org/ty189.php?id=hxws#http://l8221706.dpdns.org/fujiantv.php?id=3#http://110.89.8.166:4022/udp/239.61.2.151:8894#http://114.105.172.184:9901/tsfile/live/1006_1.m3u8
 广东卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000010000000040391
 广西卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000090000000215605
 深圳卫视,http://39.134.240.4/PLTV/2/224/3221226210/index.m3u8
@@ -64,7 +64,7 @@ CETV早期教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023060222354368
 康巴卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000134000000367619
 延边卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023031709181220216556910725802
 农林卫视,http://183.215.115.138:6610/000000001000/1000000005000266003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266003
-大湾区卫视,http://183.215.115.138:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045#http://go.bkpcp.top/mg/dwqws
+大湾区卫视,http://183.215.115.138:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
 数字频道,#genre#
 电视指南,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000091000000244797
 第一剧场,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000091000000244808
@@ -98,11 +98,11 @@ CETV早期教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023060222354368
 优优宝贝,http://39.134.240.4/PLTV/2/224/3221226360/index.m3u8
 动漫秀场,http://183.215.115.138:6610/000000001000/5000000011000031113/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8#http://l8221706.dpdns.org/shtv.php?id=jsrw
-纪实科教,http://183.215.115.138:6610/000000001000/5000000011000031204/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031204&livemode=1&stbId=3
-求索纪录,http://183.215.115.138:6610/000000001000/6000000002000032052/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032052
+纪实科教,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32024021915401878655075619734783
+求索纪录,http://183.215.115.138:6610/000000001000/2000000004000000010/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000010
 求索科学,http://183.215.115.138:6610/000000001000/6000000002000032344/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032344
 求索动物,http://183.215.115.138:6610/000000001000/6000000002000010046/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000010046
-求索生活,http://183.215.115.138:6610/000000001000/6000000002000003382/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000003382
+求索生活,http://183.215.115.138:6610/000000001000/2000000004000000008/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000008
 CHC动作电影,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000050000000448842
 CHC影迷电影,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000050000000448841
 CHC家庭影院,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000050000000448840
@@ -118,12 +118,12 @@ CHC家庭影院,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=000000010000000000
 文物宝库,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000064000000308848
 国学频道,http://www.huakangyaoye.cn:8800/udp/225.1.2.129:11674#http://115.60.241.249:2000/udp/225.1.4.196:1311#http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32022110411133186725376756113972
 收藏天下,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32022110411090836203478380759910
-中学生频道,http://go.bkpcp.top/mg/zxs#http://hlsbkmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=#http://www.kaniptv.cn/sxg.php?id=zxs_4000#http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023061416093545217774427398013
+中学生频道,http://migu.shanhaiguanwu.top:443/708869532#http://go.bkpcp.top/mg/zxs#http://gslbmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?msisdn=2026031411252112f8ca6862c147a3824d105debaafe65&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20260314112521&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=114.245.219.76&SecurityKey=20260314112521&promotionId=&mvid=5900002149&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0dcad1220904296748907121623868fb&ddCalcu=b0fde8c16a88d03122621029107402998647#http://www.kaniptv.cn/sxg.php?id=zxs_4000#http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023061416093545217774427398013
 环球旅游,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000064000000308870
 环球奇观,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023061416181029613614091027931
 生态环境,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32022110216491442983478388082464
-发现之旅,http://go.bkpcp.top/mg/fxzl#http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=#http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8#http://175.22.226.131:888/hls/79/index.m3u8#http://www.kaniptv.cn/sxg.php?id=fxzl_2000#http://l8221706.dpdns.org/tptv.php?p=gitv&id=G_FAXIANZL.m3u8#http://101.204.187.4:8604/hls.p2p.com/live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=&U=&A=&K=&P=&S=#http://a.limingzi.com:8888/udp/239.253.246.162:8000#http://110.89.8.166:4022/udp/239.61.3.74:9962#http://110.253.59.39:8686/udp/239.253.94.30:6629#http://117.114.153.26:8182/hls/TV00000000000000000131@HHZT.m3u8#http://tv.dlwmkj.com/php2021/bfy.php?id=151
-老故事,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000050000000448839#http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8
+发现之旅,http://migu.shanhaiguanwu.top:443/624878970#http://go.bkpcp.top/mg/fxzl#http://gslbmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/1000/index.m3u8?msisdn=2026031411252029cede1050664b2f8f647da2269aa879&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20260314112520&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=114.245.219.76&SecurityKey=20260314112520&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d33b24e1c36619687d793e646910550d&ddCalcu=dd03e5315b4020149e614c63e6369179d678#http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8#http://175.22.226.131:888/hls/79/index.m3u8#http://www.kaniptv.cn/sxg.php?id=fxzl_2000#http://l8221706.dpdns.org/tptv.php?p=gitv&id=G_FAXIANZL.m3u8#http://101.204.187.4:8604/hls.p2p.com/live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=&U=&A=&K=&P=&S=#http://a.limingzi.com:8888/udp/239.253.246.162:8000#http://110.89.8.166:4022/udp/239.61.3.74:9962#http://110.253.59.39:8686/udp/239.253.94.30:6629#http://117.114.153.26:8182/hls/TV00000000000000000131@HHZT.m3u8#http://tv.dlwmkj.com/php2021/bfy.php?id=151
+老故事,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000050000000448839#http://migu.shanhaiguanwu.top:443/884121956#http://go.bkpcp.top/mg/lgs
 中华特产,http://tv.sohu.blog/d/mg.php?id=959986618#http://27.24.107.226:60001/udp/239.69.2.18:11262#http://sh.lnott.top:880/dx83.m3u8#http://lxj.i234.me:1672/yn.php?type=live&id=544#https://live.tv.darwinchow.com/channel/zhonghuatechan?livekey=01WUmEIiqpDDcoCjkk7cji0rgIY84vlD9XyHx&userkey=ba7eb8e14ee4f8a9#http://60.223.72.15:8002/udp/226.0.2.128:8936#http://tv.dlwmkj.com/php2021/bfy.php?id=158
 地方台,#genre#
 湖南经视,http://39.134.240.4/PLTV/2/224/3221226036/index.m3u8
@@ -438,5 +438,3 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 咪咕体育直播8,http://39.135.5.167/000000001000/3000000001000007218/index.m3u8
 咪咕体育直播9,http://39.135.5.162/000000001000/3000000001000005308/index.m3u8
 咪咕体育直播10,http://39.135.5.162/000000001000/3000000001000005969/index.m3u8
-
-

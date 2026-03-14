@@ -35,7 +35,7 @@ CETV早期教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023060222354368
 安徽卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000016000000007224
 东南卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000010000000040459
 厦门卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000022000000381023
-海峡卫视,http://218.104.239.114:9901/tsfile/live/0150_1.m3u8#http://go.bkpcp.top/mg/hxws#https://live.tv.darwinchow.com/channel/haixiaweishi?livekey=01WUmEIiqpDDcoCjkk7cji0rgIY84vlD9XyHx&userkey=ba7eb8e14ee4f8a9#http://l8221706.dpdns.org/xxqg.php?id=2eb43b20727e4218af6f26850b51ccee#http://www.dsk.cc/php/ql.php?id=hxws#http://38.64.72.148:80/hls/modn/list/4009/chunklist1.m3u8#http://l8221706.dpdns.org/ty189.php?id=hxws#http://l8221706.dpdns.org/fujiantv.php?id=3#http://110.89.8.166:4022/udp/239.61.2.151:8894#http://114.105.172.184:9901/tsfile/live/1006_1.m3u8
+海峡卫视,http://go.bkpcp.top/mg/hxws#https://live.tv.darwinchow.com/channel/haixiaweishi?livekey=01WUmEIiqpDDcoCjkk7cji0rgIY84vlD9XyHx&userkey=ba7eb8e14ee4f8a9#http://l8221706.dpdns.org/xxqg.php?id=2eb43b20727e4218af6f26850b51ccee#http://www.dsk.cc/php/ql.php?id=hxws#http://38.64.72.148:80/hls/modn/list/4009/chunklist1.m3u8#http://l8221706.dpdns.org/ty189.php?id=hxws#http://l8221706.dpdns.org/fujiantv.php?id=3#http://110.89.8.166:4022/udp/239.61.2.151:8894#http://114.105.172.184:9901/tsfile/live/1006_1.m3u8
 广东卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000010000000040391
 广西卫视,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000090000000215605
 深圳卫视,http://39.134.240.4/PLTV/2/224/3221226210/index.m3u8

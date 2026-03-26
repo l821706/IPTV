@@ -89,7 +89,7 @@ CETV早期教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023060222354368
 游戏风云,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32024042211010049110856436458678#http://183.215.115.138:6610/000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 天元围棋,http://39.134.240.4/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.4/PLTV/2/224/3221225809/index.m3u8
-中国交通,http://web.iakoay.com:8001/udp/239.3.1.188:8001#http://lxj.i234.me:1672/yn.php?type=live&id=525#http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8#http://171.113.183.4:8686/udp/239.69.2.3:11172
+中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001#http://111.196.128.135:20000/udp/239.3.1.188:8001#http://lxj.i234.me:1672/yn.php?type=live&id=525#http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8#http://171.113.183.4:8686/udp/239.69.2.3:11172
 百姓健康,https://p2hs.vzan.com/1532537644/njyq869272051046520219/live.m3u8
 北京卡酷,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000090000000215608
 哈哈炫动,http://39.134.240.4/PLTV/2/224/3221226084/index.m3u8

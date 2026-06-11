@@ -143,7 +143,7 @@ CHC家庭影院,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=000000010000000000
 长沙政法,http://39.134.240.4/PLTV/2/224/3221226202/index.m3u8
 怀化新闻综合,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000016000000287147#http://l8221706.dpdns.org/hh.php?id=zhonghe1#http://hunhhyd.sohu.blog:9999/tsfile/live/1006_1.m3u8
 怀化经济生活,http://l8221706.dpdns.org/hh.php?id=gonggong1#http://hunhhyd.sohu.blog:9999/tsfile/live/1004_1.m3u8
-靖州综合,https://m3u8.l8221706.indevs.in/?hl=aHR0cHM6Ly9saXZlcGxheS1zcnMudm9jLmNvbS5jbi9obHMvdHYvMzRfOGU5OGNkLm0zdTg%3D&referer=https%3A%2F%2Fxhncloud.voc.com.cn%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F148.0.0.0+Safari%2F537.36&mode=1#http://l8221706.us.ci/jzzh.php?id=34#http://hunhhyd.sohu.blog:9999/tsfile/live/1108_1.m3u8#https://liveplay-srs.voc.com.cn/hls/tv/34_8e98cd.m3u8
+靖州综合,https://l8221706.indevs.in/?hl=aHR0cHM6Ly9saXZlcGxheS1zcnMudm9jLmNvbS5jbi9obHMvdHYvMzRfOGU5OGNkLm0zdTg%3D&referer=https%3A%2F%2Fxhncloud.voc.com.cn%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F148.0.0.0+Safari%2F537.36&mode=1#http://l8221706.us.ci/jzzh.php?id=34#http://hunhhyd.sohu.blog:9999/tsfile/live/1108_1.m3u8#https://liveplay-srs.voc.com.cn/hls/tv/34_8e98cd.m3u8
 快乐购,http://39.134.240.4/PLTV/2/224/3221226196/index.m3u8
 钓鱼频道,#genre#
 四海钓鱼,http://39.134.240.4/PLTV/2/224/3221226346/index.m3u8

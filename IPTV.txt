@@ -81,7 +81,7 @@ CETV早期教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023060222354368
 央视台球,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000091000000244803
 高尔夫网球,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000091000000244801
 央视文化精品,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000091000000244810
-央视卫生健康,http://14.117.226.41:4022/udp/239.77.0.212:5146#http://107.150.60.122/live/wsjk.m3u8
+央视卫生健康,http://14.21.176.44:5140/%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1/%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E9%AB%98%E6%B8%85#http://14.117.226.41:4022/udp/239.77.0.212:5146
 央视书画频道,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000050000000448843
 五星体育,http://183.215.115.138:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 劲爆体育,http://cg2.hunancatv.cn:9090/live/JBTY_8000.m3u8?t=aGJD77%2BquJm5VvPzZTgcBA%3D%3D&u=HNTV00QS00016155&p=8&cid=10000053&pid=&l=1&d=000000000000&ip=192.168.197.127&n=JBTY_8000&errorcode=0&sid=eXbtmiV1cQX1JIuZ1jT6FQ%3D%3D&r=20260501110339&e=20260501150339&nc=cHUdSURJbiWa&a=1111&pd=60&errorReason=0&v=2&hlsSessionID=3651013653955239941&srchost=172.16.22.158:8060&gid=7HvHY8Lvl3ld2GWLuiD2wA%3D%3D#http://221.194.141.41:2380/c3.cdn.hunancatv.com/live/jbty.m3u8#http://go.bkpcp.top/mg/jbty#http://hunhhyd.sohu.blog:9999/tsfile/live/1035_1.m3u8

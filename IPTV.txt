@@ -81,7 +81,7 @@ CETV早期教育,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=32023060222354368
 央视台球,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000091000000244803
 高尔夫网球,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000091000000244801
 央视文化精品,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000091000000244810
-央视卫生健康,http://ymz.stkeyu.top:8303/udp/239.77.0.212:5146
+央视卫生健康,https://zycfcdn.com/PLTV/88888888/224/3221226366/index.m3u8#http://ymz.stkeyu.top:8303/udp/239.77.0.212:5146
 央视书画频道,http://l8221706.dpdns.org/TVOD/itvhnyd.php?id=00000001000000000050000000448843
 五星体育,http://183.215.115.138:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 劲爆体育,http://cg2.hunancatv.cn:9090/live/JBTY_8000.m3u8?t=aGJD77%2BquJm5VvPzZTgcBA%3D%3D&u=HNTV00QS00016155&p=8&cid=10000053&pid=&l=1&d=000000000000&ip=192.168.197.127&n=JBTY_8000&errorcode=0&sid=eXbtmiV1cQX1JIuZ1jT6FQ%3D%3D&r=20260501110339&e=20260501150339&nc=cHUdSURJbiWa&a=1111&pd=60&errorReason=0&v=2&hlsSessionID=3651013653955239941&srchost=172.16.22.158:8060&gid=7HvHY8Lvl3ld2GWLuiD2wA%3D%3D#http://221.194.141.41:2380/c3.cdn.hunancatv.com/live/jbty.m3u8#http://go.bkpcp.top/mg/jbty#http://hunhhyd.sohu.blog:9999/tsfile/live/1035_1.m3u8
@@ -163,7 +163,7 @@ TVB娱乐新闻,https://cdn6.cc.cd/163189/ylxw#http://pull-vivek.speedws.com/liv
 TVB生活台,http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
 TVB华丽台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade#http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB戏曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
-TVB星河台,https://cdn6.cc.cd/163189/tvbxh#http://o11.163189.xyz/stream/live/tvbxh/#http://171.38.107.33:8282/tsfile/live/1073_1.m3u8#http://l8221706.dpdns.org/tw.php?id=tvbxh#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh#https://live.125011.xyz/live/h_jydx/二零二四末端午/135/index.m3u8#P2p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6#P2p://generationnexxxt.com:19806/afcbb73766d64754bd8d35fc330aae1c#http://117.114.153.26:8182/hls/TV00000000000000000073@HHZT.m3u8
+TVB星河台,https://zycfcdn.com/PLTV/88888888/224/3221226433/index.m3u8#https://cdn6.cc.cd/163189/tvbxh#http://o11.163189.xyz/stream/live/tvbxh/#http://171.38.107.33:8282/tsfile/live/1073_1.m3u8#http://l8221706.dpdns.org/tw.php?id=tvbxh#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh#https://live.125011.xyz/live/h_jydx/二零二四末端午/135/index.m3u8#P2p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6#P2p://generationnexxxt.com:19806/afcbb73766d64754bd8d35fc330aae1c#http://117.114.153.26:8182/hls/TV00000000000000000073@HHZT.m3u8
 TVB黄金翡翠台,P2p://generationnexxxt.com:19806/1444d681fb1b44d4a20ff001c2bb2f7c#P2p://generationnexxxt.com:19806/99b70f5afa114465aa463db0cfed6569
 TVB戏曲台,P2p://generationnexxxt.com:19806/131a3f2bbae740fc982903c576a97920
 TVB千禧经典台,P2p://generationnexxxt.com:19806/b3069418cdff4c69bb544e4b1ff04d56
